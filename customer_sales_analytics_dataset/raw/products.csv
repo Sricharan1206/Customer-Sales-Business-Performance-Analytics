@@ -1,0 +1,201 @@
+Product_ID,Product_Name,Category,Sub_Category,Unit_Price,Cost_Price
+PROD0001,Pro Storage 001,Home & Kitchen,Storage,58.57,35.68
+PROD0002,Advanced Laptops 002,Electronics,Laptops,56.06,28.74
+PROD0003,Everyday Mobiles 003,Electronics,Mobiles,117.9,89.08
+PROD0004,Smart Accessories 004,Electronics,Accessories,88.05,44.87
+PROD0005,Eco Appliances 005,Home & Kitchen,Appliances,50.0,32.02
+PROD0006,Classic Audio 006,Electronics,Audio,59.81,39.24
+PROD0007,Advanced Appliances 007,Home & Kitchen,Appliances,161.81,120.29
+PROD0008,Everyday Footwear 008,Clothing,Footwear,78.39,39.25
+PROD0009,Everyday Paper 009,Office Supplies,Paper,59.78,43.96
+PROD0010,Classic Beverages 010,Grocery,Beverages,50.0,33.68
+PROD0011,Premium Personal Care 011,Grocery,Personal Care,50.0,39.39
+PROD0012,Everyday Mobiles 012,Electronics,Mobiles,50.0,32.43
+PROD0013,Smart Personal Care 013,Grocery,Personal Care,114.05,62.92
+PROD0014,Everyday Mobiles 014,Electronics,Mobiles,60.81,40.32
+PROD0015,Eco Accessories 015,Electronics,Accessories,102.68,79.73
+PROD0016,Essential Stationery 016,Office Supplies,Stationery,96.92,64.28
+PROD0017,Essential Printers 017,Office Supplies,Printers,50.0,30.6
+PROD0018,Everyday Stationery 018,Office Supplies,Stationery,60.46,33.1
+PROD0019,Essential Appliances 019,Home & Kitchen,Appliances,50.0,26.99
+PROD0020,Essential Footwear 020,Clothing,Footwear,128.34,64.99
+PROD0021,Eco Audio 021,electronics,Audio,105.02,61.73
+PROD0022,Classic Mobiles 022,Electronics,Mobiles,59.22,31.23
+PROD0023,Premium Staples 023,Grocery,Staples,92.48,70.69
+PROD0024,Advanced Audio 024,Electronics,Audio,134.86,95.09
+PROD0025,Eco Staples 025,Grocery,Staples,62.09,45.3
+PROD0026,Premium Personal Care 026,Grocery,Personal Care,168.8,134.47
+PROD0027,Classic Office Equipment 027,Office Supplies,Office Equipment,55.97,35.48
+PROD0028,Essential Paper 028,Office Supplies,Paper,138.76,91.43
+PROD0029,Premium Cookware 029,Home & Kitchen,Cookware,62.56,50.25
+PROD0030,Essential Personal Care 030,Grocery,Personal Care,50.0,34.43
+PROD0031,Classic Storage 031,Home & Kitchen,Storage,67.69,40.86
+PROD0032,Pro Footwear 032,Clothing,Footwear,65.27,42.33
+PROD0033,Premium Stationery 033,Office Supplies,Stationery,50.0,27.08
+PROD0034,Essential Accessories 034,Electronics,Accessories,50.0,28.03
+PROD0035,Smart Accessories 035,Electronics,Accessories,50.0,25.85
+PROD0036,Smart Laptops 036,Electronics,Laptops,72.1,51.47
+PROD0037,Premium Stationery 037,Office Supplies,Stationery,50.0,32.44
+PROD0038,Eco Accessories 038,Clothing,Accessories,242.25,132.52
+PROD0039,Eco Beverages 039,Grocery,Beverages,145.43,104.53
+PROD0040,Premium Menswear 040,Clothing,Menswear,50.0,30.64
+PROD0041,Smart Audio 041,Electronics,Audio,143.7,71.87
+PROD0042,Premium Audio 042,Electronics,Audio,50.0,40.33
+PROD0043,Premium Snacks 043,Grocery,Snacks,50.0,29.9
+PROD0044,Premium Footwear 044,Clothing,Footwear,61.74,36.8
+PROD0045,Classic Audio 045,Electronics,Audio,50.0,33.6
+PROD0046,Classic Menswear 046,Clothing,Menswear,50.0,37.66
+PROD0047,Pro Audio 047,Electronics,Audio,99.01,67.69
+PROD0048,Essential Laptops 048,Electronics,Laptops,71.92,45.07
+PROD0049,Pro Cookware 049,Home & Kitchen,Cookware,50.0,36.9
+PROD0050,Classic Office Equipment 050,Office Supplies,Office Equipment,66.83,52.44
+PROD0051,Essential Stationery 051,Office Supplies,Stationery,73.58,45.58
+PROD0052,Classic Snacks 052,Grocery,Snacks,50.0,25.63
+PROD0053,Pro Staples 053,Grocery,Staples,114.22,88.86
+PROD0054,Premium Mobiles 054,Electronics,Mobiles,50.0,25.39
+PROD0055,Advanced Audio 055,Electronics,Audio,50.0,32.89
+PROD0056,Eco Footwear 056,Clothing,Footwear,135.33,86.25
+PROD0057,Pro Audio 057,Electronics,Audio,85.82,49.99
+PROD0058,Classic Womenswear 058,Clothing,Womenswear,50.0,34.87
+PROD0059,Essential Accessories 059,Electronics,Accessories,90.74,69.09
+PROD0060,Pro Storage 060,Home & Kitchen,Storage,50.0,33.91
+PROD0061,Pro Laptops 061,Electronics,Laptops,69.3,43.84
+PROD0062,Essential Laptops 062,Electronics,Laptops,59.56,32.11
+PROD0063,Advanced Storage 063,Home & Kitchen,Storage,61.0,37.51
+PROD0064,Eco Office Equipment 064,Office Supplies,Office Equipment,50.0,35.17
+PROD0065,Premium Beverages 065,Grocery,Beverages,346.75,236.03
+PROD0066,Everyday Appliances 066,Home & Kitchen,Appliances,72.77,37.04
+PROD0067,Pro Furniture 067,Home & Kitchen,Furniture,67.01,47.53
+PROD0068,Eco Footwear 068,Clothing,Footwear,50.0,40.85
+PROD0069,Smart Printers 069,Office Supplies,Printers,93.42,73.07
+PROD0070,Classic Office Equipment 070,Office Supplies,Office Equipment,50.0,30.72
+PROD0071,Everyday Cookware 071,Home & Kitchen,Cookware,50.0,28.05
+PROD0072,Essential Appliances 072,Home & Kitchen,Appliances,187.3,137.9
+PROD0073,Essential Cookware 073,Home & Kitchen,Cookware,80.71,55.87
+PROD0074,Everyday Office Equipment 074,Office Supplies,Office Equipment,50.0,37.11
+PROD0075,Classic Audio 075,Electronics,Audio,107.23,61.59
+PROD0076,Pro Mobiles 076,Electronics,Mobiles,72.65,53.53
+PROD0077,Advanced Furniture 077,Home & Kitchen,Furniture,62.38,33.13
+PROD0078,Classic Menswear 078,Clothing,Menswear,50.0,29.16
+PROD0079,Advanced Paper 079,Office Supplies,Paper,50.0,28.66
+PROD0080,Premium Paper 080,Office Supplies,Paper,50.0,38.77
+PROD0081,Eco Menswear 081,Clothing,Menswear,54.53,33.12
+PROD0082,Eco Accessories 082,Clothing,Accessories,632.1,504.74
+PROD0083,Pro Mobiles 083,Electronics,Mobiles,140.64,74.78
+PROD0084,Eco Appliances 084,Home & Kitchen,Appliances,50.0,26.17
+PROD0085,Classic Cookware 085,Home & Kitchen,Cookware,67.54,54.5
+PROD0086,Smart Snacks 086,Grocery,Snacks,50.0,33.24
+PROD0087,Eco Furniture 087,Home & Kitchen,Furniture,50.93,25.51
+PROD0088,Essential Furniture 088,Home & Kitchen,Furniture,50.0,36.9
+PROD0089,Pro Stationery 089,Office Supplies,Stationery,127.62,63.94
+PROD0090,Advanced Storage 090,Home & Kitchen,Storage,50.0,39.53
+PROD0091,Advanced Accessories 091,Electronics,Accessories,147.87,76.33
+PROD0092,Classic Storage 092,Home & Kitchen,Storage,72.3,36.65
+PROD0093,Pro Audio 093,Electronics,Audio,50.0,34.31
+PROD0094,Pro Cookware 094,Home & Kitchen,Cookware,84.6,54.22
+PROD0095,Eco Cookware 095,Home & Kitchen,Cookware,50.0,39.79
+PROD0096,Premium Beverages 096,Grocery,Beverages,156.16,78.83
+PROD0097,Essential Storage 097,Home & Kitchen,Storage,50.0,35.85
+PROD0098,Everyday Office Equipment 098,Office Supplies,Office Equipment,50.0,39.15
+PROD0099,Pro Footwear 099,Clothing,Footwear,50.0,32.49
+PROD0100,Premium Mobiles 100,Electronics,Mobiles,85.81,52.2
+PROD0101,Essential Audio 101,Electronics,Audio,50.0,25.39
+PROD0102,Smart Menswear 102,Clothing,Menswear,92.61,56.5
+PROD0103,Smart Furniture 103,Home & Kitchen,Furniture,97.3,56.35
+PROD0104,Pro Accessories 104,Clothing,Accessories,117.75,66.96
+PROD0105,Advanced Office Equipment 105,Office Supplies,Office Equipment,94.39,65.45
+PROD0106,Pro Storage 106,Home & Kitchen,Storage,87.77,64.35
+PROD0107,Eco Office Equipment 107,Office Supplies,Office Equipment,51.05,30.21
+PROD0108,Pro Cookware 108,Home & Kitchen,Cookware,50.0,27.71
+PROD0109,Premium Womenswear 109,Clothing,Womenswear,234.39,153.57
+PROD0110,Eco Storage 110,Home & Kitchen,Storage,60.51,46.69
+PROD0111,Essential Beverages 111,Grocery,Beverages,209.98,139.44
+PROD0112,Smart Appliances 112,Home & Kitchen,Appliances,93.66,64.72
+PROD0113,Eco Stationery 113,Office Supplies,Stationery,92.79,52.66
+PROD0114,Premium Furniture 114,Home & Kitchen,Furniture,110.74,75.02
+PROD0115,Classic Beverages 115,Grocery,Beverages,50.0,29.87
+PROD0116,Smart Printers 116,Office Supplies,Printers,180.36,136.28
+PROD0117,Pro Footwear 117,Clothing,Footwear,64.18,38.73
+PROD0118,Pro Appliances 118,Home & Kitchen,Appliances,277.1,170.43
+PROD0119,Pro Appliances 119,Home & Kitchen,Appliances,79.18,43.33
+PROD0120,Pro Footwear 120,Clothing,Footwear,50.0,34.57
+PROD0121,Essential Laptops 121,Electronics,Laptops,176.55,131.7
+PROD0122,Essential Menswear 122,Clothing,Menswear,58.13,30.93
+PROD0123,Essential Womenswear 123,Clothing,Womenswear,50.0,26.96
+PROD0124,Smart Accessories 124,Electronics,Accessories,50.0,40.87
+PROD0125,Everyday Paper 125,Office Supplies,Paper,315.84,254.61
+PROD0126,Everyday Paper 126,Office Supplies,Paper,50.52,33.23
+PROD0127,Everyday Staples 127,Grocery,Staples,50.0,27.26
+PROD0128,Advanced Staples 128,Grocery,Staples,78.29,46.8
+PROD0129,Premium Storage 129,Home & Kitchen,Storage,134.68,110.08
+PROD0130,Pro Storage 130,Home & Kitchen,Storage,50.0,27.31
+PROD0131,Everyday Accessories 131,Clothing,Accessories,50.0,30.69
+PROD0132,Smart Mobiles 132,Electronics,Mobiles,50.0,38.76
+PROD0133,Everyday Appliances 133,Home & Kitchen,Appliances,176.2,117.46
+PROD0134,Premium Printers 134,Office Supplies,Printers,115.97,84.08
+PROD0135,Eco Cookware 135,Home & Kitchen,Cookware,87.37,53.75
+PROD0136,Advanced Stationery 136,Office Supplies,Stationery,50.0,38.39
+PROD0137,Essential Laptops 137,Electronics,Laptops,50.0,31.74
+PROD0138,Everyday Accessories 138,Clothing,Accessories,168.35,131.12
+PROD0139,Premium Personal Care 139,Grocery,Personal Care,101.12,67.56
+PROD0140,Pro Staples 140,Grocery,Staples,182.31,100.15
+PROD0141,Pro Storage 141,Home & Kitchen,Storage,152.83,88.6
+PROD0142,Advanced Storage 142,Home & Kitchen,Storage,54.01,31.46
+PROD0143,Premium Cookware 143,Home & Kitchen,Cookware,219.55,139.82
+PROD0144,Pro Audio 144,Electronics,Audio,50.0,26.05
+PROD0145,Classic Snacks 145,Grocery,Snacks,206.36,110.58
+PROD0146,Everyday Accessories 146,Clothing,Accessories,50.0,38.15
+PROD0147,Classic Appliances 147,Home & Kitchen,Appliances,97.88,77.77
+PROD0148,Pro Storage 148,Home & Kitchen,Storage,67.87,53.94
+PROD0149,Advanced Mobiles 149,Electronics,Mobiles,50.0,28.18
+PROD0150,Premium Stationery 150,Office Supplies,Stationery,50.0,33.45
+PROD0151,Smart Accessories 151,Electronics,Accessories,298.38,204.27
+PROD0152,Smart Mobiles 152,Electronics,Mobiles,206.91,163.67
+PROD0153,Advanced Printers 153,Office Supplies,Printers,79.67,57.03
+PROD0154,Smart Footwear 154,Clothing,Footwear,111.78,76.73
+PROD0155,Classic Snacks 155,Grocery,Snacks,80.46,51.13
+PROD0156,Everyday Printers 156,Office Supplies,Printers,123.92,95.19
+PROD0157,Smart Furniture 157,Home & Kitchen,Furniture,328.74,269.33
+PROD0158,Premium Mobiles 158,Electronics,Mobiles,73.52,40.03
+PROD0159,Eco Personal Care 159,Grocery,Personal Care,93.32,51.69
+PROD0160,Classic Accessories 160,Electronics,Accessories,426.79,220.08
+PROD0161,Everyday Snacks 161,Grocery,Snacks,70.13,57.38
+PROD0162,Premium Furniture 162,Home & Kitchen,Furniture,50.0,27.15
+PROD0163,Everyday Womenswear 163,Clothing,Womenswear,62.95,44.91
+PROD0164,Everyday Appliances 164,Home & Kitchen,Appliances,50.0,38.06
+PROD0165,Classic Footwear 165,Clothing,Footwear,50.0,38.09
+PROD0166,Advanced Accessories 166,Electronics,Accessories,50.0,25.37
+PROD0167,Smart Beverages 167,Grocery,Beverages,50.0,40.87
+PROD0168,Advanced Laptops 168,Electronics,Laptops,186.6,96.37
+PROD0169,Everyday Personal Care 169,Grocery,Personal Care,163.46,127.47
+PROD0170,Pro Accessories 170,Clothing,Accessories,153.91,111.94
+PROD0171,Essential Accessories 171,Clothing,Accessories,64.85,45.2
+PROD0172,Essential Snacks 172,Grocery,Snacks,50.0,37.17
+PROD0173,Classic Office Equipment 173,Office Supplies,Office Equipment,88.69,47.87
+PROD0174,Advanced Printers 174,Office Supplies,Printers,71.55,43.13
+PROD0175,Eco Office Equipment 175,Office Supplies,Office Equipment,54.14,42.82
+PROD0176,Everyday Furniture 176,Home & Kitchen,Furniture,242.96,158.33
+PROD0177,Everyday Beverages 177,Grocery,Beverages,60.05,42.86
+PROD0178,Premium Womenswear 178,Clothing,Womenswear,77.28,51.1
+PROD0179,Premium Audio 179,Electronics,Audio,128.35,98.71
+PROD0180,Everyday Laptops 180,Electronics,Laptops,50.0,27.92
+PROD0181,Advanced Furniture 181,Home & Kitchen,Furniture,90.92,55.75
+PROD0182,Premium Accessories 182,Clothing,Accessories,104.37,64.95
+PROD0183,Pro Furniture 183,Home & Kitchen,Furniture,87.79,51.76
+PROD0184,Premium Laptops 184,Electronics,Laptops,118.93,72.66
+PROD0185,Eco Printers 185,Office Supplies,Printers,50.0,30.06
+PROD0186,Essential Personal Care 186,Grocery,Personal Care,232.12,145.64
+PROD0187,Pro Furniture 187,Home & Kitchen,Furniture,50.0,38.83
+PROD0188,Everyday Footwear 188,Clothing,Footwear,50.0,32.31
+PROD0189,Premium Office Equipment 189,Office Supplies,Office Equipment,56.6,37.28
+PROD0190,Essential Mobiles 190,Electronics,Mobiles,50.0,29.21
+PROD0191,Premium Storage 191,Home & Kitchen,Storage,53.71,31.35
+PROD0192,Smart Mobiles 192,Electronics,Mobiles,50.0,26.16
+PROD0193,Advanced Menswear 193,Clothing,Menswear,50.0,28.62
+PROD0194,Eco Mobiles 194,Electronics,Mobiles,50.49,38.74
+PROD0195,Premium Mobiles 195,Electronics,Mobiles,50.0,36.29
+PROD0196,Pro Audio 196,Electronics,Audio,53.91,37.86
+PROD0197,Pro Office Equipment 197,Office Supplies,Office Equipment,110.11,67.58
+PROD0198,Pro Audio 198,Electronics,Audio,112.46,92.21
+PROD0199,Advanced Cookware 199,Home & Kitchen,Cookware,50.0,27.73
+PROD0200,Pro Appliances 200,Home & Kitchen,Appliances,50.0,30.45
